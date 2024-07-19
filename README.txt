@@ -16,3 +16,10 @@
 |   |   |--  Jupyter Notebook.docx、pytorch学习笔记.docx 和  PaddlePaddle学习笔记.docx
 |   |-- 视频作业
 |   |   |-- 作业1.txt、作业2.txt、作业3.txt
+|-- week4
+|   |-- 李宏毅视频笔记
+|   |   |--  第四周视频学习笔记.docx
+|   |-- PyTorch与PaddlePaddle
+|   |   |--  pytorch学习笔记.docx 和  PaddlePaddle学习笔记.docx
+|   |-- 视频作业
+|   |   |-- 作业4.txt
