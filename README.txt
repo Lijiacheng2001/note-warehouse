@@ -23,3 +23,8 @@
 |   |   |--  pytorch学习笔记.docx 和  PaddlePaddle学习笔记.docx
 |   |-- 视频作业
 |   |   |-- 作业4.txt
+|-- week5
+|   |-- 李宏毅视频笔记
+|   |   |--  第五周视频学习笔记.docx
+|   |-- 实战演练阶段一及实验结果
+|   |   |--  nlp.ipynb、midlevel_data.ipynb和nlp_dive.ipynb
